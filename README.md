@@ -11,3 +11,4 @@ In this first part of the Challenge I created a ERD Diagram which is important i
 Data Analysis: 
 IN this last section of the challenge we take wthe relationships and constraints from our Data Engineering and use SQl Queries to perform an analysis using the data in csv files imported into our sql tables.
 
+![SQL-Challenge-ERD-Diagram](https://github.com/dulsilva/Sql-Challenge/assets/135565997/e8cce91c-ae4e-4f1b-9210-476c41c351ad)
